@@ -63,8 +63,13 @@ Competitor_Sales_Analysis/
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## References & Resources 📚
+
+This project was inspired by concepts learned from **DataCamp** courses on Power BI and data analysis. Here are some relevant resources:
+
+- [Competitor Sales Analysis](https://app.datacamp.com/learn/courses/case-study-competitor-sales-analysis-in-power-bi))
+
+For more hands-on learning, check out **[DataCamp](https://www.datacamp.com/)** for interactive courses on data analysis, visualization, and business intelligence.
 
 ---
 🚀 **Unlock business insights and drive strategic decisions with data!**
